@@ -1,6 +1,6 @@
 -  Hi, I’m @Ez-Saksham
 -  I’m interested in Software , Cyber-Security & IOT
--  I’m currently learning C
+-  I’m currently learning C and Python
 -  I’m looking to collaborate With all of you
 -  How to reach me sakshamyadav041@gmail.com
 
