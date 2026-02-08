@@ -8,6 +8,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ez-Saksham&theme=dark)](https://git.io/streak-stats)
 
-##GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ez-Saksham&show_icons=true&theme=dark)
