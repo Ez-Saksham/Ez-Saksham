@@ -1,7 +1,7 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,kaggle,jupyter" />
 </p>
 
 ## GitHub Streak
