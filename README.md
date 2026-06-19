@@ -1,6 +1,6 @@
 Hi i am Saksham Yadav
 
-A software and machine learning engineer passionate about low-level optimization, building neural networks from scratch, and writing efficient code.
+Just a guy who wants to learn everything from the First Principle. Full of Curiosity with a little spark of madness.
 
 Currently :  Building an MNIST Neural Network from scratch using only raw NumPy math. <br>
  I enjoy bridging the gap between high-level Python ML and low-level C/C++ memory management.
