@@ -23,7 +23,7 @@ Currently :  Building an MNIST Neural Network from scratch using only raw NumPy 
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Ez-Saksham&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
