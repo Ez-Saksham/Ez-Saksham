@@ -15,9 +15,7 @@ Currently :  Building an MNIST Neural Network from scratch using only raw NumPy 
 <p align="left">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakxamydv&repo=MNIST-Neural-Network-From-Scratch"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakxamydv&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=radical" />
+
 </p>
 
 ---
@@ -28,6 +26,9 @@ Currently :  Building an MNIST Neural Network from scratch using only raw NumPy 
   <img src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=radical"/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakxamydv&repo=MNIST-Neural-Network-From-Scratch"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakxamydv&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=radical" />
   </a>
 </p>
 
