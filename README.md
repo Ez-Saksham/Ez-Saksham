@@ -22,7 +22,7 @@ Currently :  Building an MNIST Neural Network from scratch using only raw NumPy 
 # My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=radical"/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark" alt="GitHub Streak" />
   </a>
