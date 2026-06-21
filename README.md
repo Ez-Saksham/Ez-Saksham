@@ -25,9 +25,9 @@ Currently :  Building an MNIST Neural Network from scratch using only raw NumPy 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark" alt="GitHub Streak" />
-   <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakxamydv&repo=MNIST-Neural-Network-From-Scratch"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=radical" /> <br>
+   <br> <br> <br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakxamydv&repo=MNIST-Neural-Network-From-Scratch"/> <br> <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=radical" /> <br> <br> <br>
   </a>
 </p>
 
